@@ -4,12 +4,12 @@
     color: #aaa;
     letter-spacing: 2px;
     margin-top: 0;
-    font-style: regular;
+    font-style: normal;
+    font-weight: 400;
 }
 
 @media screen and (max-width: 768px) {
     .place__title  {
-        font-size: 12px;
         line-height: 12px;
     }
 } 

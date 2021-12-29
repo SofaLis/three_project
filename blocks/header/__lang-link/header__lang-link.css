@@ -3,10 +3,6 @@
     line-height: 28px;
     color: #fff;
     transition: opacity .3s;
-}
-
-.header__lang-link:last-child  {
-    padding-left: 18px;
     text-decoration: none;
 }
 

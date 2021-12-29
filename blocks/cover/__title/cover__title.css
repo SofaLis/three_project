@@ -2,9 +2,11 @@
     color: #fff;
     font-size: 72px;
     line-height: 76px;
-    margin: 0 0 32px;
+    margin: 0 auto 32px;
     text-align: center;
     max-width: calc(100% - (2*312px));
+    font-weight: 900;
+    font-style:  normal;
 }
 
 @media screen and (max-width: 1208px) {
@@ -22,6 +24,7 @@
 @media screen and (max-width: 696px) {
     .cover__title {
         max-width: calc(100% - (2*16px));
+        margin: 0 auto 16px;
     }
 } 
 
