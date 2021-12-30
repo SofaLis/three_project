@@ -6,22 +6,23 @@
     font-weight: 400;
     font-style: normal;
     margin: 8px 0 0 148px;
+    text-transform: uppercase;
 }
 
 @media screen and (max-width: 1025px) {
     .lead__caption {
-        margin: 8px 0 0 48px;
+        margin-right: 48px;
     }
 } 
 
 @media screen and (max-width: 768px) {
     .lead__caption {
-        margin: 8px 0 0 24px;
+        margin-right: 24px;
     }
 }
 
 @media screen and (max-width: 400px) {
     .lead__caption {
-        margin: 8px 0 0 16px;
+        margin-right: 16px;
     }
 }

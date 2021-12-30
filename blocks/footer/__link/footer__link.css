@@ -5,6 +5,7 @@
     line-height: 18px;
     transition: opacity .3s;
     text-decoration: none;
+    padding-right: 18px;
 }
 
 @media screen and (max-width: 694px) {
